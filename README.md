@@ -19,7 +19,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 ## 📊 Key Visualizations  
 
 ### **1️⃣ Industry Analysis of Unicorn Companies**
-![Industry Analysis](visuals/Industry%20Analysis%20of%20Unicorn%20Companies.png)  
+![Industry Analysis](visuals:/Industry Analysis of Unicorn Companies.png)  
 🔹 **Fintech and AI sectors dominate, reflecting strong investor interest and market growth.**
 
 ### **2️⃣ Top Cities with Unicorn Companies**
