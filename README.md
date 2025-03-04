@@ -35,7 +35,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **No significant difference in time-to-unicorn status between developed and emerging markets.**
 
 ### **5️⃣ TEST 3: T-Test**
-![T-Test](visuals/TEST%203%20-%20T-TEST.png)  
+![T-Test](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/TEST%203%20-%20T-TEST.png?raw=true)  
 🔹 **Mean valuation does not significantly differ between tech and non-tech unicorns.**
 
 ### **6️⃣ TEST 4: Chi-Square Test**
