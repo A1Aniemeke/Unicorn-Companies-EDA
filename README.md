@@ -55,7 +55,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **Companies that raise more funding tend to have higher valuations, but other factors also influence valuation.**
 
 ### **🔟 Regression Analysis Results**
-![Regression Results](visuals/Regression%20Analysis%20Results.png)  
+![Regression Results](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/Regression%20Analysis%20Results.png?raw=true)  
 🔹 **Total funding explains only 23.2% of valuation variation, highlighting the importance of other growth factors.**
 
 ---
