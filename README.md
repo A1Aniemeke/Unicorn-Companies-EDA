@@ -31,7 +31,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **Tech companies are 1.47x more likely to reach unicorn status within 5 years than non-tech firms.**
 
 ### **4️⃣ TEST 2: Risk Ratio**
-![Risk Ratio](visuals/TEST%202-%20RISK%20RATIO.png)  
+![Risk Ratio](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/TEST%202-%20RISK%20RATIO.png?raw=true)  
 🔹 **No significant difference in time-to-unicorn status between developed and emerging markets.**
 
 ### **5️⃣ TEST 3: T-Test**
