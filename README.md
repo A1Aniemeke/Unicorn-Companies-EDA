@@ -47,7 +47,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **Valuation of unicorns does not significantly differ between developed and emerging countries.**
 
 ### **8️⃣ Time-Series Forecasting**
-![Time-Series Forecasting](visuals/Time-series%20Forecasting.png)  
+![Time-Series Forecasting](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/Time-series%20Forecasting.png?raw=true)  
 🔹 **The time taken to achieve unicorn status has increased slightly in recent years, stabilizing around 6 years.**
 
 ### **9️⃣ Regression Analysis**
