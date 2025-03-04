@@ -43,7 +43,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **No strong relationship between a company's country group (developed/emerging) and its valuation category.**
 
 ### **7️⃣ TEST 5: ANOVA**
-![ANOVA](visuals/TEST%205-ANOVA.png)  
+![ANOVA](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/TEST%205-ANOVA.png?raw=true)  
 🔹 **Valuation of unicorns does not significantly differ between developed and emerging countries.**
 
 ### **8️⃣ Time-Series Forecasting**
