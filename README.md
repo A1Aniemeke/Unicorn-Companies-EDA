@@ -23,7 +23,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **Fintech and AI sectors dominate, reflecting strong investor interest and market growth.**
 
 ### **2️⃣ Top Cities with Unicorn Companies**
-![Top Cities](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals/Top%20Cities%20with%20Unicorn%20Companies.png?raw=true)
+![Top Cities] (https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/Top%20Cities%20with%20Unicorn%20Companies.png?raw=true)
 🔹 **San Francisco, New York, and Beijing lead as global unicorn hubs due to strong startup ecosystems.**
 
 ### **3️⃣ TEST 1: Odds Ratio**
