@@ -51,7 +51,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **The time taken to achieve unicorn status has increased slightly in recent years, stabilizing around 6 years.**
 
 ### **9️⃣ Regression Analysis**
-![Regression Analysis](visuals/Regression%20Analysis.png)  
+![Regression Analysis](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/Regression%20Analysis.png?raw=true)  
 🔹 **Companies that raise more funding tend to have higher valuations, but other factors also influence valuation.**
 
 ### **🔟 Regression Analysis Results**
