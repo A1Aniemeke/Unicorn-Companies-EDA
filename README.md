@@ -39,7 +39,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **Mean valuation does not significantly differ between tech and non-tech unicorns.**
 
 ### **6️⃣ TEST 4: Chi-Square Test**
-![Chi-Square](visuals/TEST%204-%20CHI-SQUARE.png)  
+![Chi-Square](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals:/TEST%204-%20CHI-SQUARE.png?raw=true)  
 🔹 **No strong relationship between a company's country group (developed/emerging) and its valuation category.**
 
 ### **7️⃣ TEST 5: ANOVA**
