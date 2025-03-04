@@ -27,7 +27,7 @@ This project explores the characteristics of **unicorn companies** (private firm
 🔹 **San Francisco, New York, and Beijing lead as global unicorn hubs due to strong startup ecosystems.**
 
 ### **3️⃣ TEST 1: Odds Ratio**
-![Odds Ratio](visuals/TEST%201-%20ODDS%20RATIO.png)  
+![Odds Ratio](https://github.com/A1Aniemeke/Unicorn-Companies-EDA/blob/main/visuals/TEST%201-%20ODDS%20RATIO.png?raw=true) 
 🔹 **Tech companies are 1.47x more likely to reach unicorn status within 5 years than non-tech firms.**
 
 ### **4️⃣ TEST 2: Risk Ratio**
